@@ -1,0 +1,235 @@
+# Œ”z—ñ‚É‚·‚é
+# Ql : http://yellow.ribbon.to/~ujiro/
+# 2-263”Å
+
+# u•ÏŠ·vƒL[‚ÅAŒ”z—ñ‚ÉA
+# u–³•ÏŠ·vƒL[‚ÅAŒ³‚É–ß‚·
+# ƒJƒiƒƒbƒN‚Í‚µ‚Ä‚Í‚¢‚¯‚È‚¢
+# IME ƒ‚[ƒh‚Ì”»’è‚ğ‚µ‚Ä‚¢‚È‚¢‚Ì‚ÅA
+# ‚¿‚á‚ñ‚ÆŒ³‚É–ß‚³‚È‚¢‚Æ’¼Ú“ü—Í‚Å‚à‚¨‚©‚µ‚È‚±‚Æ‚É‚È‚é‚Ì‚Å’ˆÓ
+#
+# Shift ‚Í•’Ê‚Ì“ü—Í
+# —ë’i–Úi”š‚Ì’ij‚ÍÄ’è‹`‚µ‚È‚¢
+#
+# ’Êí
+#   ‚»   ‚±   ‚µ   ‚Ä   š   ‚Â   ‚ñ   ‚¢   ‚Ì   ‚è   ‚¿   u
+#    ‚Í   ‚©   š   ‚Æ   ‚½   ‚­   ‚¤   š   š   ‚«   ‚ê   v
+#      ‚·   ‚¯   ‚É   ‚È   ‚³   ‚Á   ‚é   A   B   š   E
+#
+# ¶è1(D)
+#   Q   Q   Q   Q   Q   ‚Ê   ‚¦   ‚İ   ‚â  ‚¿‚å ‚¶‚¥  ‚¥
+#    Q  ‚Ó‚Ÿ  ™  ‚µ‚å  Q   ‚Ü   ‚¨   ‚à   ‚í   ‚ä  ‚«‚å ‚İ‚á
+#      Q   Q   Q   Q   Q   ‚Ş   ‚ë   ‚Ë   [   ‚¡   ‚§
+#
+# ¶è2(T)
+#   Q   Q   Q   Q   ™   ‚Ø   ‚Ã  ‚Ä‚¡ ‚µ‚á ‚¿‚¥ ‚Ğ‚á  ‚á
+#    Q   Q   Q   Q   Q   ‚Ï   ‚Ú  ‚¶‚ã ‚«‚ã ‚Ñ‚ã ‚µ‚¥  ‚å
+#      Q   Q   Q   Q   Q  ‚¶‚á ‚¿‚á ‚«‚á ‚Ğ‚å ‚Ñ‚å  ‚ã
+#
+# ‰Eè1(K)
+#   ‚¼   ‚Ğ   ‚Ù   ‚ª   ‚ß   Q   Q   Q   Q   Q   Q   Q
+#    ‚Ç   ‚ğ   ‚ç   ‚    ‚æ   Q  ‚µ‚ã  ™   Q   Q   Q   Q
+#     ‚¬‚å  ‚Ö   ‚¹   ‚Ó   ‚´   Q   Q   Q   Q   Q   Q
+#
+# ‰Eè2(L)
+#   ‚Ñ   ‚²   ‚¶   ‚¬   ‚º   Q   Q   Q   Q   Q   Q   Q
+#   ‚è‚å  ‚°   ‚Å   ‚Î   ‚¾  ‚Ò‚å ‚®  ‚¶‚å  ™   Q   Q   Q
+#     ‚Å‚¡  ‚Õ   ‚¸   ‚Ô   ‚×  ‚¬‚ã  Q   Q   Q   Q   Q
+#
+# ‰Eè3(/)
+#  ‚É‚á ‚è‚á ‚Ó‚¡  ‚À   ‚Ÿ  ‚¤‚¡ ‚¤‚§ Q   Q   Q   Q   Q
+#    ƒ”   ‚Û  ‚Ñ‚á  ‚Ò  ‚¬‚á ‚¤‚¥ ‚Ó‚¥ ‚Ó‚§ ‚¿‚ã  Q   Q   Q
+#     ‚É‚ã ‚É‚å ‚İ‚å ‚è‚ã ‚İ‚ã ‚Ò‚ã  ‚£   Q   Q   ™   Q
+
+# ¶è1(D)
+keymap2 Tsuki-Left1 : Global
+	# ˆê’i–Ú
+	key L0-*IC-Y = N U
+	key L0-*IC-U = E
+	key L0-*IC-I = M I
+	key L0-*IC-O = Y A
+	key L0-*IC-P = C H O
+	key L0-*IC-Atmark = J E
+	key L0-*IC-OpenBracket = X E
+
+	# “ñ’i–Ú
+	key L0-*IC-S = F A
+	key L0-*IC-F = S H O
+
+	key L0-*IC-H = M A
+	key L0-*IC-J = O
+	key L0-*IC-K = M O
+	key L0-*IC-L = W A
+	key L0-*IC-Semicolon = Y U
+	key L0-*IC-Colon = K Y O
+	key L0-*IC-CloseBracket = M Y A
+
+	# O’i–Ú
+	key L0-*IC-N = M U
+	key L0-*IC-M = R O
+	key L0-*IC-Comma = N E
+	key L0-*IC-Period = Hyphen
+	key L0-*IC-Slash = X I
+	key L0-*IC-BackSlash = X O
+
+# ¶è2(T)
+keymap2 Tsuki-Left2 : Global
+	# ˆê’i–Ú
+	key L0-*IC-Y = P E
+	key L0-*IC-U = D U
+	key L0-*IC-I = T H I
+	key L0-*IC-O = S H A
+	key L0-*IC-P = C H E
+	key L0-*IC-Atmark = H Y A
+	key L0-*IC-OpenBracket = X Y A
+
+	# “ñ’i–Ú
+	key L0-*IC-H = P A
+	key L0-*IC-J = B O
+	key L0-*IC-K = J U
+	key L0-*IC-L = K Y U
+	key L0-*IC-Semicolon = B Y U
+	key L0-*IC-Colon = S H E
+	key L0-*IC-CloseBracket = X Y O
+
+	# O’i–Ú
+	key L0-*IC-N = J A
+	key L0-*IC-M = C H A
+	key L0-*IC-Comma = K Y A
+	key L0-*IC-Period = H Y O
+	key L0-*IC-Slash = B Y O
+	key L0-*IC-BackSlash = X Y U
+
+# ‰Eè1(K)
+keymap2 Tsuki-Right1 : Global
+	# ˆê’i–Ú
+	key L0-*IC-Q = Z O
+	key L0-*IC-W = H I
+	key L0-*IC-E = H O
+	key L0-*IC-R = F U
+	key L0-*IC-T = M E
+
+	# “ñ’i–Ú
+	key L0-*IC-A = D O
+	key L0-*IC-S = W O
+	key L0-*IC-D = R A
+	key L0-*IC-F = A
+	key L0-*IC-G = Y O
+
+	key L0-*IC-J = S H U
+
+	# O’i–Ú
+	key L0-*IC-Z = G Y O
+	key L0-*IC-X = H E
+	key L0-*IC-C = S E
+	key L0-*IC-V = G A
+	key L0-*IC-B = Z A
+
+# ‰Eè2(L)
+keymap2 Tsuki-Right2 : Global
+	# ˆê’i–Ú
+	key L0-*IC-Q = B I
+	key L0-*IC-W = G O
+	key L0-*IC-E = J I
+	key L0-*IC-R = G I
+	key L0-*IC-T = Z E
+
+	# “ñ’i–Ú
+	key L0-*IC-A = R Y O
+	key L0-*IC-S = G E
+	key L0-*IC-D = D E
+	key L0-*IC-F = B A
+	key L0-*IC-G = D A
+
+	key L0-*IC-H = P Y O
+	key L0-*IC-J = G U
+	key L0-*IC-K = J O
+
+	# O’i–Ú
+	key L0-*IC-Z = D H I
+	key L0-*IC-X = P U
+	key L0-*IC-C = Z U
+	key L0-*IC-V = B U
+	key L0-*IC-B = B E
+	key L0-*IC-N = G Y U
+
+# ‰Eè3(/)
+keymap2 Tsuki-Right3 : Global
+	# ˆê’i–Ú
+	key L0-*IC-Q = N Y A
+	key L0-*IC-W = R Y A
+	key L0-*IC-E = F I
+	key L0-*IC-R = D I
+	key L0-*IC-T = X A
+
+	key L0-*IC-Y = U X I
+	key L0-*IC-U = U X O
+
+	# “ñ’i–Ú
+	key L0-*IC-A = V U
+	key L0-*IC-S = P O
+	key L0-*IC-D = B Y A
+	key L0-*IC-F = P I
+	key L0-*IC-G = G Y A
+
+	key L0-*IC-H = U X E
+	key L0-*IC-J = F E
+	key L0-*IC-K = F O
+	key L0-*IC-L = C H U
+
+	# O’i–Ú
+	key L0-*IC-Z = N Y U
+	key L0-*IC-X = N Y O
+	key L0-*IC-C = M Y O
+	key L0-*IC-V = R Y U
+	key L0-*IC-B = M Y U
+
+	key L0-*IC-N = P Y U
+	key L0-*IC-M = X U
+
+# ’Êí
+keymap Global
+	# u•ÏŠ·vAu–³•ÏŠ·v‚Å Œ - –ß‚·
+	# ƒVƒtƒgƒL[‚Í
+	key *S-NonConvert = &Default &Toggle(Lock0,off)
+	key *S-Convert = &Default &Toggle(Lock0,on)
+
+	# —ë’i–Ú‚ÍÄ’è‹`‚µ‚È‚¢
+
+	# ˆê’i–Ú
+	key L0-*IC-Q = S O
+	key L0-*IC-W = K O
+	key L0-*IC-E = S H I
+	key L0-*IC-R = T E
+	key L0-*IC-T = &Prefix(Tsuki-Left2)
+	key L0-*IC-Y = T S U
+	key L0-*IC-U = N N
+	key L0-*IC-I = I
+	key L0-*IC-O = N O
+	key L0-*IC-P = R I
+	key L0-*IC-Atmark = T I
+
+	# “ñ’i–Ú
+	key L0-*IC-A = H A
+	key L0-*IC-S = K A
+	key L0-*IC-D = &Prefix(Tsuki-Left1)
+	key L0-*IC-F = T O
+	key L0-*IC-G = T A
+	key L0-*IC-H = K U
+	key L0-*IC-J = U
+	key L0-*IC-K = &Prefix(Tsuki-Right1)
+	key L0-*IC-L = &Prefix(Tsuki-Right2)
+	key L0-*IC-Semicolon = K I
+	key L0-*IC-Colon = R E
+
+	# O’i–Ú
+	key L0-*IC-Z = S U
+	key L0-*IC-X = K E
+	key L0-*IC-C = N I
+	key L0-*IC-V = N A
+	key L0-*IC-B = S A
+	key L0-*IC-N = X T U
+	key L0-*IC-M = R U
+	key L0-*IC-Slash = &Prefix(Tsuki-Right3)
+	key L0-*IC-BackSlash = Slash
+

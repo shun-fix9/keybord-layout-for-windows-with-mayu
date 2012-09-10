@@ -1,0 +1,4 @@
+# ”¼Šp/‘SŠp ‚ð ‰E alt ‚É‚·‚é
+keymap Global
+mod alt += Kanji
+key *Kanji = *RightAlt
